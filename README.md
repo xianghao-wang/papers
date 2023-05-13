@@ -8,4 +8,7 @@
 
 - [x] [**Multi-level spatial and temporal tiling for efficient HPC stencil computation on many-core processors with large shared caches**](parallel-system/Multi-level_spatial_and_temporal_tiling.pdf): Focuses on exploiting cache in both spatial space and temporal space.
 
-- [ ] [**Cache Oblivious Stencil Computations**](parallel-system/Cache_Oblivious_Stencil_Computations.pdf): Cache oblivious algorithm by tiling on space and temporal dimension.
+- [x] [**Cache Oblivious Stencil Computations**](parallel-system/Cache_Oblivious_Stencil_Computations.pdf): Cache oblivious algorithm by tiling on space and temporal dimension.
+
+## Benchmark
+- [x] [**A Performance Analysis of Modern Parallel Programming Models Using a Compute-Bound Application**](benchmark/miniBUDE.pdf): Report on miniBUDE benchmark.
