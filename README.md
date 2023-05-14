@@ -12,3 +12,6 @@
 
 ## Benchmark
 - [x] [**A Performance Analysis of Modern Parallel Programming Models Using a Compute-Bound Application**](benchmark/miniBUDE.pdf): Report on miniBUDE benchmark.
+
+## Compiler
+- [ ] [**Iterated Register Coalescing**](compiler/Iterated_Register_Coalescing.pdf): George coalescing
